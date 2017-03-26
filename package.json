@@ -5,7 +5,7 @@
   "main": "root.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --content-base --inline --hot"
+    "dev": "webpack-dev-server --inline --hot"
   },
   "author": "",
   "license": "ISC",
@@ -21,13 +21,17 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-mixin": "^2.0.2",
+    "react-pull-to-refresh": "^1.0.6",
     "react-responsive": "^1.2.1",
     "react-router": "^2.8.1",
+    "react-touch-loader": "^1.1.0",
     "style-loader": "^0.13.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.16.1"
   },
   "devDependencies": {
-    "babel-plugin-import": "^1.0.1"
+    "babel-plugin-import": "^1.0.1",
+    "less": "^2.7.2",
+    "less-loader": "^3.0.0"
   }
 }
