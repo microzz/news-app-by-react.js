@@ -11,4 +11,12 @@ antd使页面更加美观
 ## 开始
 `npm run dev` or `npm run build`
 
+## 预览
+PC端
+![react-news by microzz.com](https://github.com/microzz/news-app-by-react.js/blob/master/preview/pc-index.png?raw=true)
+
+手机端
+
+![react-news by microzz.com](https://github.com/microzz/news-app-by-react.js/blob/master/preview/phone.png?raw=true)
+
 
