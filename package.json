@@ -5,8 +5,7 @@
   "main": "root.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "webpack-dev-server --inline --hot",
-    "build": "webpack"
+    "dev": "webpack-dev-server --inline --hot"
   },
   "author": "",
   "license": "ISC",
