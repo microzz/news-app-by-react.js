@@ -30,7 +30,7 @@ Ant Design 是蚂蚁金服开发和正在使用的一套企业级的前端设计
 ## 开始
 本项目以慕课网视频为原型开发，大家可以发挥想象改进功能😄 
 
-下载下来之后： 
+下载下来之后,先安装依赖 `npm install` 或者 `cnpm install`，然后： 
 
 `npm run dev` or `npm run build`
 
